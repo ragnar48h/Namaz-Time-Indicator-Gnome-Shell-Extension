@@ -35,5 +35,7 @@ r
 ```
 The extension should appear on top as shown in the screenshot.
 
+## Additional Usage
+I Used the public API of [Islamic Finder](http://www.islamicfinder.us/index.php/api) to develop this extension. To change any settings like Prayer Calculation Method, Juristic etc. visit the given link and update the code in [extension.js](./namaz-time@hasir.com/extension.js) accordingly.
 ## Screenshot
 ![alt text](./gnome-screenshot.png "Screenshot 1")
