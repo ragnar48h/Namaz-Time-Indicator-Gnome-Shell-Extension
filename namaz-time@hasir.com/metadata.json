@@ -1,0 +1,10 @@
+{
+    "description": "Namaz Time Extension",
+    "name": "Namaz Time Extension",
+    "shell-version": [
+        "3.34.1"
+    ],
+    "url": "https://micheleg.github.io/dash-to-dock/",
+    "uuid": "namaz-time@hasir.com",
+    "version": 1   
+}
